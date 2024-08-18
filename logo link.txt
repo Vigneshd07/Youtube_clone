@@ -1,0 +1,14 @@
+you <i class="fa-brands fa-youtube"></i>
+shorts <i class="fa-regular fa-circle-play"></i>
+history <i class="fa-solid fa-clock-rotate-left"></i>
+trending<i class="fa-solid fa-fire"></i>
+shop<i class="fa-solid fa-cart-arrow-down"></i>
+music<i class="fa-solid fa-music"></i>
+movie<i class="fa-solid fa-film"></i>
+live<i class="fa-brands fa-free-code-camp"></i>
+news<i class="fa-regular fa-newspaper"></i>
+subscription<i class="fa-solid fa-money-check-dollar"></i>
+search<i class="fa-solid fa-magnifying-glass"></i>
+mice18:22 10-08-2024
+dot menu<i class="fa-solid fa-ellipsis-vertical"></i>
+menu bar<i class="fa-solid fa-bars"></i>

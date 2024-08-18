@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+  
+    #menu{
+        margin-left: 15px;
+        position: absolute;
+        top: 25px;
+    }
+    .logo{
+        /* position: sticky; */
+        margin-top: 10px;
+        margin-left: 30px;git a
+    }
+    input{
+        width: 400px;
+        height: 20px;
+        border-radius: 18px;
+        border: 2px lightgray solid;
+    
+        position: absolute;
+        left: 38%;
+        top: 25px;
+    }
+    ::placeholder{
+        position: absolute;
+        left: 10px;
+    }
+    .search{
+        width: 48.5px;
+        height: 20px;
+        border-radius : 0px 18px 18px 0px;
+        background-color :lightgray ;
+        /* border: 2px lightgray solid; */
+        position:absolute;
+        top: 26px;
+        left: 62.0%;
+        }
+        .search:hover{
+            
+            background-color: black;
+            color: white;
+        }
+        #q{
+            margin-left: 15px;
+            margin-top: 3px;
+        }
+        .m{
+            width: 45px;
+        height: 40px;
+        border-radius: 100%;
+        background-color :lightgray ;
+        position: absolute;
+        left:66.5% ;
+        top: 20px;
+        }
+        .m:hover{
+            
+            background-color: black;
+            color: white;
+        }
+        #mic{
+            margin-left: 17px;
+            margin-top: 10px;
+        }
+        .dot{
+            width: 45px;
+            height: 40px;
+            border-radius: 100%;
+            background-color: lightgray;
+            position: absolute;
+            right: 100px;
+            top: 20px;
+        }
+        .dot:hover{
+            background-color: black;
+            color: white;
+        }
+        #dm{
+            margin-left: 21px;
+            margin-top: 13px;
+        }
+        .signin{
+            width: 60px;
+            height: 30px;
+            /* background-color: lightskyblue; */
+            border-radius: 25px;
+            border: 2px black solid;
+            position: absolute;
+            left: 95.0%;
+            top:25px ;
+        }
+        .in{
+            color:darkblue;
+        position: absolute;
+        left: 8px;
+        top: 5px;
+        }
+        .signin:hover{
+             background-color: lightskyblue;
+        }
+        
+    
+
+
+
+hr{
+    width: 190px;
+    margin-top: 20px;
+}
+li{
+    margin-left: 50px;
+    margin-top: 20px;
+    list-style:none;
+}
+h4{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.sign{
+    margin-left: 22px;
+}
+.left{
+    /* background-color:aqua ; */
+    width: 13%;
+    height: 100vh;
+    position:absolute;
+    top:11% ;
+}
+.right{
+    width:87%;
+    height: 100vh;
+    /* background-color: rgb(230, 161, 58); */
+    position: absolute;
+    top: 11%;
+    right: 0;
+}
+
+.t{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+.t:hover{
+    background-color: black;
+    color: white;
+}
+.video{
+    margin-top: 30px;
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+}
+.v{
+    margin-left: 8px;
+}
+.hsg{
+    color: gray;
+
+}
+.a{
+    color: gray;
+}
+/* icon */
+#icon{
+position: absolute;
+left: 30px;
+}
+li{
+    margin-left: 51px;
+}
+
